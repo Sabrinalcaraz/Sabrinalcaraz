@@ -8,5 +8,5 @@
   ##
   
   <img align="right" alt="sabrina-pic" height="150" style="border-radius:50px;" 
-src="https://discordapp.com/channels/@me/984550108945338409/984551114517118986">
+src="https://media.discordapp.com/attachments/984550108945338409/984551114286444544/picasion.com_a80b387589b60c392af02d6a3d22e8ca.gif">
 </div>
