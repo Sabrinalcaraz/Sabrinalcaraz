@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/Sabrinalcaraz">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=Sabrinalcaraz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=Sabrinalcaraz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img align="right" alt="sabrina-pic" src="https://cdn.discordapp.com/attachments/984550108945338409/984551114286444544/picasion.com_a80b387589b60c392af02d6a3d22e8ca.gif">
     </div> 
     
