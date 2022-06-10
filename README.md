@@ -1,4 +1,9 @@
-### Olá eu sou a Sabrina Alcaraz, bem vindo ao meu GitHub!!
+### Olá eu sou a Sabrina Alcaraz, bem vindo ao meu GitHub!!🤗
+ 
+- 💻 Estudando Análise e Desenvolvimento de Sistemas 
+- 🎬 Fã de Harry Potter, Jogos Vorazes e da Marvel
+- 😻 Amante de gatos
+
 
 <div align="center">
   <a href="https://github.com/Sabrinalcaraz">
